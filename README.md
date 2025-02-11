@@ -1,6 +1,6 @@
-## Hi there 👋
-# 💫 About Me: I am sophomore at IIT MADRAS, curently pursuing my bs degree in Data Science
-🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on Web Dev, Machine Learning <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Sophomore at IIT MADRAS, curently pursuing my BS Degree in Data Science
+I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on Web Dev, Machine Learning <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
